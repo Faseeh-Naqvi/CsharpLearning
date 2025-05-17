@@ -1,0 +1,14 @@
+/home/faseeh/sigfig/CsharpLearning/bin/Debug/net8.0/CsharpLearning
+/home/faseeh/sigfig/CsharpLearning/bin/Debug/net8.0/CsharpLearning.deps.json
+/home/faseeh/sigfig/CsharpLearning/bin/Debug/net8.0/CsharpLearning.runtimeconfig.json
+/home/faseeh/sigfig/CsharpLearning/bin/Debug/net8.0/CsharpLearning.dll
+/home/faseeh/sigfig/CsharpLearning/bin/Debug/net8.0/CsharpLearning.pdb
+/home/faseeh/sigfig/CsharpLearning/obj/Debug/net8.0/CsharpLearning.GeneratedMSBuildEditorConfig.editorconfig
+/home/faseeh/sigfig/CsharpLearning/obj/Debug/net8.0/CsharpLearning.AssemblyInfoInputs.cache
+/home/faseeh/sigfig/CsharpLearning/obj/Debug/net8.0/CsharpLearning.AssemblyInfo.cs
+/home/faseeh/sigfig/CsharpLearning/obj/Debug/net8.0/CsharpLearning.csproj.CoreCompileInputs.cache
+/home/faseeh/sigfig/CsharpLearning/obj/Debug/net8.0/CsharpLearning.dll
+/home/faseeh/sigfig/CsharpLearning/obj/Debug/net8.0/refint/CsharpLearning.dll
+/home/faseeh/sigfig/CsharpLearning/obj/Debug/net8.0/CsharpLearning.pdb
+/home/faseeh/sigfig/CsharpLearning/obj/Debug/net8.0/CsharpLearning.genruntimeconfig.cache
+/home/faseeh/sigfig/CsharpLearning/obj/Debug/net8.0/ref/CsharpLearning.dll
