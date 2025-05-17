@@ -19,7 +19,7 @@ namespace basics
             double gpa = 3.7;
             Console.WriteLine($"{new string(namea)} is a student in {year} with a GPA of {gpa}");
             Console.WriteLine($"{name}-> {year} -> {gpa} cGPA");
-            calcs calc = new calcs("bjhr804", 7);
+            calcs calc = new calcs("bjh8ji04", 7);
             Console.WriteLine($"{calc.Square(year)} --> The year squared");
             //string inp = Console.ReadLine();
             //Console.WriteLine($"{calc.booleanCheck(inp)}--> The boolean value of the input");
