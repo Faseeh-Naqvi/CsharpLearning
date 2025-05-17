@@ -12,3 +12,4 @@
 /home/faseeh/sigfig/CsharpLearning/obj/Debug/net8.0/CsharpLearning.pdb
 /home/faseeh/sigfig/CsharpLearning/obj/Debug/net8.0/CsharpLearning.genruntimeconfig.cache
 /home/faseeh/sigfig/CsharpLearning/obj/Debug/net8.0/ref/CsharpLearning.dll
+/home/faseeh/sigfig/CsharpLearning/obj/Debug/net8.0/CsharpLearning.sourcelink.json

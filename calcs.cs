@@ -1,11 +1,21 @@
 namespace calc {
 
-    public static class calcs{
-    public static int Square(int n) {
-        return n * n;
-    }
+    public class calcs
+    {
+        public string model;
+        private int age;
+        public calcs(string model, int age)
+        {
+            this.model = model;
+            this.age = age;
+        }
+        public int Square(int n)
+        {
+            return n * n;
+        }
 
-    public static string booleanCheck(string n) {
+        public string booleanCheck(string n)
+        {
             if (n == "1" || n == "0")
             {
                 if (n == "1") { return "True"; }
@@ -15,6 +25,11 @@ namespace calc {
             {
                 return "invalid input";
             }
+        }
+
+        public string info()
+        {
+            return $"{this.model}--> model {this.age}--> age of calculator ";
     }
 }
 }
